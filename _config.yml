@@ -1,7 +1,7 @@
 # Site settings
 title: 遇见王斌
 SEOTitle: 遇见王斌
-header-img: img/home-bg.jpg
+header-img: img/contact-bg.jpg
 email: wangbin139967@163.com
 description: ""
 keyword: ""
@@ -52,7 +52,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: billwang
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -68,7 +68,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，玩玩设计,详细看《运维实践指南》"
+sidebar-about-description: "纸上得来终觉浅，绝知此事要躬行"
 sidebar-avatar: /img/avatar_bill.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

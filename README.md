@@ -1,6 +1,5 @@
 # blog 模板
 [Bill_blog](http://BillWang139967.github.io)  
-[Markdown_syntax](https://github.com/BillWang139967/BillWang139967.github.io/tree/master/doc/Markdown.md)  
 
 ## 说明文档
 
@@ -14,7 +13,7 @@
 	* [好友链接](#friends)
 	* [HTML5演示文档布局](#keynote-layout)
 * 评论与 Google/Baidu Analytics
-	* [评论](#comment)
+	* [评论](#comment)------------不可用状态(20170719)
 	* [网站分析](#analytics) 
 * 高级部分
 	* [自定义](#customization)
@@ -174,9 +173,3 @@ There are a number of tasks it performs like minification of the JavaScript, com
 #### Header Image
 
 本模板的标题是**白色**的，所以背景色要设置为**灰色**或者**黑色**，总之深色系就对了。
-
-## 致谢
-
-1. 感谢[Huxpro/Huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) 
-2. 感谢[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) 
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
