@@ -96,5 +96,9 @@ friends: [
     {
         title: "Geekwolf",
         href: "http://www.simlinux.com/"
+    },
+    {
+        title: "姚红",
+        href: "http://www.cnblogs.com/yaohong/"
     }
 ]
