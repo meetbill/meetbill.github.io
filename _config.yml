@@ -2,10 +2,10 @@
 title: 遇见王斌
 SEOTitle: 遇见王斌
 header-img: img/contact-bg.jpg
-email: wangbin139967@163.com
+email: meetbill@163.com
 description: ""
 keyword: ""
-url: "http://billwang139967.github.io/"              # your host, for absolute URL
+url: "http://meetbill.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 weibo_username:     bingo139967
 zhihu_username:     billwang139967
-github_username:    billwang139967
+github_username:    meetbill
 #twitter_username:  xxxxx
 #facebook_username:  xxxxxx
 

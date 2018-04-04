@@ -2,7 +2,7 @@
     "name": "Bill-blog",
     "title": "Bill Blog",
     "version": "1.0.0",
-    "homepage": "http://billwang139967.github.io",
+    "homepage": "http://meetbill.github.io",
     "author": "Bill",
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://billwang139967.github.io"
+        "url": "http://meetbill.github.io"
     },
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
