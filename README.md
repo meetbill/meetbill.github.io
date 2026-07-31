@@ -12,8 +12,7 @@
 	* [标签云](#featured-tags)
 	* [好友链接](#friends)
 	* [HTML5演示文档布局](#keynote-layout)
-* 评论与 Google/Baidu Analytics
-	* [评论](#comment)------------不可用状态(20170719)
+* Google/Baidu Analytics
 	* [网站分析](#analytics) 
 * 高级部分
 	* [自定义](#customization)
@@ -128,26 +127,6 @@ iframe:     "http://"
 
 iframe在不同的设备中，将会自动的调整大小。保留内边距是为了让手机用户可以向下滑动，以及添加更多的内容。
 
-
-#### Comment
-
-博客不仅的多说[Duoshuo](http://duoshuo.com)评论系统，也支持disqus[Disqus](http://disqus.com)评论系统。
-
-disqus国际比较流行，界面也很大气、简介，如果有人评论，还能实时通知，直接回复通知的邮件就行了。缺点是评论必须要去注册一个disqus账号，分享一般只有Facebook和Twitter，另外在墙内加载速度略慢了一点。想要知道长啥样，可以看以前的版本点[这里](http://brucezhaor.github.io/about.html) 最下面就可以看到。
-
-多说国内主流社交软件都有分享按钮，登陆方便，比较好管理，就是界面丑了一点。当然你是可以自定义界面的css的，详情请看多说开发者文档。
-
-**首先**，你需要去注册一个账号，不管是disqus还是多说的。**不要直接使用我的啊！**
-
-**其次**，你只需要在下面的yaml头文件中设置一下就可以了。
-
-```
-duoshuo_username: _你的用户名_
-# 或者
-disqus_username: _你的用户名_
-```
-
-**最后**多说是支持分享的，如果你不想分享，请这样设置：`duoshuo_share: false`。你可以同时使用两个评论系统，不过个人感觉怪怪的。
 
 #### Analytics
 
